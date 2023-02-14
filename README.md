@@ -19,14 +19,14 @@ Si quieren investigar un poco mas de la serie sugiero entrar a [Wikipedia HIMYM]
 
 
 ## Incluso muchos episodios pueden causar diversas emociones como:
-1.Cuando tu quieres reir :joy: 
--S1:E1 Pilot
--S2:E11 How Lily Stole christmas
--S2:E21 Something Borrowed
-2.Cuando quieres llorar :cry:
--S6:E13 Bad News
--S6:E14 Last words
--S7:E12 Symphony of illumination
--S8:E20 The time travelers
+1. Cuando tu quieres reir :joy: 
+- S1:E1 Pilot
+- S2:E11 How Lily Stole christmas
+- S2:E21 Something Borrowed
+2. Cuando quieres llorar :cry:
+- S6:E13 Bad News
+- S6:E14 Last words
+- S7:E12 Symphony of illumination
+- S8:E20 The time travelers
 
 Gracias por ver :sunglasses:
