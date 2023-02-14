@@ -10,6 +10,7 @@ En el año 2030, el arquitecto Ted Mosby decide contarles a sus dos hijos la his
 La serie consta de 9 temporadas: la primera temporada empezó a transmitirse el 19 de septiembre de 2005 y terminó el 15 de mayo de 2006, año cuando la próxima temporada comenzó cuatro meses después, el 18 de septiembre, y terminó el 14 de mayo de 2007. 
 
 Basándose en la idea "escribamos sobre nuestros amigos y las estupideces que cometimos en Nueva York" How I Met Your Mother es una creación de los productores Bays y Thomas. Ambos se basaron en su amistad para crear los personajes, con Ted inspirado en Bays, y Marshall y Lily inspirados en Thomas y su mujer. 
+
 ![imagen de amigos en el bar de himym](https://cnnespanol.cnn.com/wp-content/uploads/2014/03/140327194124-himym-cast-horizontal-gallery.jpg?quality=100&strip=info)
 
 La serie ha gosado de mucha popularidad y de muchas personas que la recomiendan, personalmente yo tambien la recomiendo, ademas la serie [cuenta com una calificacion de 8.3/10](https://www.imdb.com/video/vi929409305/?playlistId=tt0460649&ref_=tt_ov_vi).
@@ -18,14 +19,14 @@ Si quieren investigar un poco mas de la serie sugiero entrar a [Wikipedia HIMYM]
 
 
 ## Incluso muchos episodios pueden causar diversas emociones como:
--Cuando tu quieres reir :joy: 
---S1:E1 Pilot
---S2:E11 How Lily Stole christmas
---S2:E21 Something Borrowed
--Cuando quieres llorar :cry:
---S6:E13 Bad News
---S6:E14 Last words
---S7:E12 Symphony of illumination
---S8:E20 The time travelers
+1.Cuando tu quieres reir :joy: 
+-S1:E1 Pilot
+-S2:E11 How Lily Stole christmas
+-S2:E21 Something Borrowed
+2.Cuando quieres llorar :cry:
+-S6:E13 Bad News
+-S6:E14 Last words
+-S7:E12 Symphony of illumination
+-S8:E20 The time travelers
 
 Gracias por ver :sunglasses:
